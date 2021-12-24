@@ -7,7 +7,7 @@
 - 💬 Ask me about Tableau
 - 📫 How to reach me: khandelwalshuchi@yahoo.com
 - 😄 Pronouns: Shoo--Chee
-- ⚡ Fun fact: 
+- ⚡ More about me : www.linkedin.com/in/shuchik
 <!--
 **shuchiK38/shuchiK38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
