@@ -1,4 +1,4 @@
-### Hi there 👋 . Thank you for checking my profile.
+### Hi there 👋 . Thank you for visiting my page.
 
 - 🔭 I’m currently working on Tableau project.
 - 🌱 I’m currently learning more insight into ProsgreSQL and Advance EXCEL.
