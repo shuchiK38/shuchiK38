@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Data Visualisations on Tableau.
 - 🤔 I’m looking for help with deep understanding Advance SQL.
 - 💬 Ask me about Tableau
-- 📫 How to reach me: shuchi.khandelwal@gmail.com
+- 📫 How to reach me: khandelwalshuchi@yahoo.com
 - 😄 Pronouns: Shoo--Chee
 - ⚡ Fun fact: 
 <!--
