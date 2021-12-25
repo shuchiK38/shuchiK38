@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Tableau project.
 - 🌱 I’m currently learning more insight into ProsgreSQL and Advance EXCEL.
-- 👯 I’m looking to collaborate on Data Visualisations on Tableau.
+- 👯 I’m looking to collaborate on Business Intelligence projects.
 - 🤔 I’m looking for help in more insight on Machine learning.
 - 💬 Ask me about Tableau,ProsgreSQL
 - 📫 How to reach me: khandelwalshuchi@yahoo.com
