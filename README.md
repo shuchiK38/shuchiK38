@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Tableau project.
 - 🌱 I’m currently learning more insight into ProsgreSQL and Advance EXCEL.
 - 👯 I’m looking to collaborate on Data Visualisations on Tableau.
-- 🤔 I’m looking for help with deep understanding on ProsgreSQL.
-- 💬 Ask me about Tableau
+- 🤔 I’m looking for help with deep understanding on Machine learning.
+- 💬 Ask me about Tableau,ProsgreSQL
 - 📫 How to reach me: khandelwalshuchi@yahoo.com
 - 😄 Name pronouns as : Shoo--Chee !
 - ⚡ More about me : www.linkedin.com/in/shuchik
