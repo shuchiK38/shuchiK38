@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help in more insight on Machine learning.
 - 💬 Ask me about Tableau,ProsgreSQL
 - 📫 How to reach me: khandelwalshuchi@yahoo.com
-- 😄 Name pronouns as : Shoo--Chee !
+- 😄 Name pronouns as : Shoo-Chee !
 - ⚡ More about me : www.linkedin.com/in/shuchik
 <!--
 **shuchiK38/shuchiK38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
