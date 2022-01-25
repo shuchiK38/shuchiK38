@@ -1,10 +1,10 @@
 ### Hi there 👋 . Thank you for visiting my page.
 
 - 🔭 I’m currently working on Tableau project.
-- 🌱 I’m currently learning more insight into ProsgreSQL and Advance EXCEL.
+- 🌱 I’m currently learning more insight into PostgreSQL and Advance EXCEL.
 - 👯 I’m looking to collaborate on Business Intelligence projects.
 - 🤔 I’m looking for help in more insight on Machine learning.
-- 💬 Ask me about Tableau,ProsgreSQL
+- 💬 Ask me about Tableau,PostgreSQL
 - 📫 How to reach me: khandelwalshuchi@yahoo.com
 - 😄 Name pronouns as : Shoo-Chee !
 - ⚡ More about me : www.linkedin.com/in/shuchik
